@@ -1,0 +1,25 @@
+{
+  "name": "express-nodejs-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corey-marchand/express-nodeJs-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corey-marchand/express-nodeJs-server/issues"
+  },
+  "homepage": "https://github.com/corey-marchand/express-nodeJs-server#readme",
+  "dependencies": {
+    "node": "^15.0.1",
+    "nodemon": "^2.0.6",
+    "validator": "^10.8.0"
+  }
+}
